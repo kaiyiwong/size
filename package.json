@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/watsondg/size.git"
+    "url": "git+ssh://git@github.com/kaiyiwong/size.git"
   },
   "keywords": [
     "size",
@@ -23,9 +23,9 @@
   "author": "Florian Morel",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/watsondg/size/issues"
+    "url": "https://github.com/kaiyiwong/size/issues"
   },
-  "homepage": "https://github.com/watsondg/size#readme",
+  "homepage": "https://github.com/kaiyiwong/size#readme",
   "devDependencies": {
     "faucet": "0.0.1",
     "smokestack": "^3.4.1",
